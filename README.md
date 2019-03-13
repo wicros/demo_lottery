@@ -1,2 +1,2 @@
 # demo_lottery
-demo project for student who interest in IOS
+demo project for students who interested in IOS
